@@ -127,5 +127,3 @@ export const deleteProduct: RequestHandler = async (req: Request, res: Response)
       }); 
     } 
 }; 
-
-
