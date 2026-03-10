@@ -1,0 +1,6 @@
+#sisweb-backend
+
+Tech: NodeJS, Express, Morgan, Nodemon, Postgresql
+
+## DESCRIPTION
+CRUD Exercise for a e-commerce shop
